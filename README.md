@@ -1,0 +1,1 @@
+# pyculadora-v2.6
